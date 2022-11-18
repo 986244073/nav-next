@@ -1,4 +1,4 @@
-const Header = ({ siteInfo }) => {
+const Header = ({ siteInfo }: any) => {
   // console.log('siteInfo', siteInfo)
   return (
     <div className="sticky top-0 z-50 flex p-5 md:px-10 shadow-md bg-white">
